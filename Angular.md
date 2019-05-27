@@ -5,6 +5,8 @@
 [Angular Docs](https://angular.io/docs)
 ___
 
+##### Monday 27 May 2019
+- Reading Angular Docs - Fundamentals Section - Dynamic Components
 
 ##### Sunday 26 May 2019
 - Github contribution - [StackBlitz created and comment added](https://github.com/valor-software/ngx-bootstrap/issues/5222)
