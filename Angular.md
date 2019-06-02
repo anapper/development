@@ -4,6 +4,9 @@
 
 [Angular Docs](https://angular.io/docs)
 ___
+##### Sunday 2 June 2019
+- Reading Angular Docs - Fundamentals Section - Attribute Directives, Structural Directives, Pipes
+- Reading [Medium Article](https://blog.angularindepth.com/angular-routing-reusing-common-layout-for-pages-from-different-modules-440a23f86b57)
 
 ##### Monday 27 May 2019
 - Reading Angular Docs - Fundamentals Section - Dynamic Components
