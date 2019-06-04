@@ -5,6 +5,9 @@
 [Angular Docs](https://angular.io/docs)
 ___
 
+##### Tuesday 2 June 2019
+- Reading [Alligator.io Article](https://alligator.io/angular/route-resolvers/) - Angular router: route resolvers
+
 ##### Monday 3 June 2019
 - Reading [Medium Article](https://blog.angularindepth.com/the-three-pillars-of-angular-routing-angular-router-series-introduction-fb34e4e8758e) - The Three Pillars of Angular Routing. Intro
 - Reading [Medium Article](https://blog.angularindepth.com/angular-routing-series-pillar-1-router-states-and-url-matching-12520e62d0fc) - The Three Pillars of the Angular Router — Router States and URL Matching
