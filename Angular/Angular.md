@@ -5,6 +5,10 @@
 [Angular Docs](https://angular.io/docs)
 ___
 
+##### Thursday 4 June 2019
+- Reading [Alligator.io Article](https://alligator.io/angular/httpclient-intro/) - Introduction to Angulars HttpClient
+- Reading [Alligator.io Article](https://alligator.io/angular/reactive-forms-introduction/) - Reactive Forms in Angular: An Introduction
+
 ##### Tuesday 2 June 2019
 - Reading [Alligator.io Article](https://alligator.io/angular/route-resolvers/) - Angular router: route resolvers
 
