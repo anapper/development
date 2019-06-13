@@ -4,6 +4,8 @@
 
 [Angular Docs](https://angular.io/docs)
 ___
+##### Thursday 13 June 2019
+- Reading Angular Docs - Fundamentals Section - Forms Introduction, Reactive Forms
 
 ##### Thursday 4 June 2019
 - Reading [Alligator.io Article](https://alligator.io/angular/httpclient-intro/) - Introduction to Angulars HttpClient
