@@ -4,6 +4,9 @@
 
 [Angular Docs](https://angular.io/docs)
 ___
+##### Friday 14 June 2019
+- Reading Angular Docs - Fundamentals Section - Template-driven Forms
+
 ##### Thursday 13 June 2019
 - Reading Angular Docs - Fundamentals Section - Forms Introduction, Reactive Forms
 
