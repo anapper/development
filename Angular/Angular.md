@@ -4,6 +4,9 @@
 
 [Angular Docs](https://angular.io/docs)
 ___
+##### Monday 17 June 2019
+- Reading angular docs - Fundamentals Section - Form Validation, Dynamic Forms
+
 ##### Friday 14 June 2019
 - Reading Angular Docs - Fundamentals Section - Template-driven Forms
 
