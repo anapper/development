@@ -1,5 +1,8 @@
 # React
 
+##### Sunday 30 June 2019
+- Continued [Udemy Course](https://www.udemy.com/react-the-complete-guide-incl-redux/) - Completed Section 7
+
 ##### Monday 24 June 2019
 - Continued [Udemy Course](https://www.udemy.com/react-the-complete-guide-incl-redux/) - Started Section 7
 
